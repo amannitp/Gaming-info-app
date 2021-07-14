@@ -1,0 +1,29 @@
+#contact-heading{
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.social-icon{
+    padding-left: 10%;
+}
+h4 a{
+    text-decoration: none;
+    color: white;
+    padding-top: 25px;
+}
+@media  only screen and (max-width:890px){
+    .adress{
+        font-size: 15px;
+    }
+    #contact-heading{
+        margin-bottom:20px ;
+    }
+    
+}
+@media  only screen and (max-width:780px){
+    .adress{
+        font-size: 14px;
+    }
+    #contact-heading{
+        margin-bottom:20px ;
+    }
+}

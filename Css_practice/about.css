@@ -1,0 +1,133 @@
+#ninja-front {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+#ninja-head1 {
+  font-size: 48px;
+  font-weight: 500;
+  color: #ffffff;
+}
+#ninja-paragraph-1 {
+  font-size: 18px;
+  color: #ffffff;
+}
+@media only screen and (max-width: 1320px) {
+  #ninja-head1 {
+    font-size: 36px;
+  }
+  #ninja-paragraph-1 {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 1010px) {
+  #ninja-head1 {
+    font-size: 30px;
+  }
+  #ninja-paragraph-1 {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 840px) {
+  #ninja-head1 {
+    font-size: 27px;
+  }
+  #ninja-paragraph-1 {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  #ninja-head1 {
+    font-size: 20px;
+  }
+  #ninja-paragraph-1 {
+    font-size: 9px;
+  }
+}
+#ninja-paragraph-2 {
+  text-align: left;
+  font-size: 18px;
+  padding-top: 20px;
+}
+@media only screen and (max-width: 1330px) {
+  #ninja-paragraph-2 {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 1090px) {
+  #ninja-paragraph-2 {
+    font-size: 12px;
+  }
+}
+ul {
+  list-style: square;
+}
+li {
+  color: tomato;
+}
+.list-text {
+  color: black;
+  margin-left: 10px;
+}
+.pc {
+  margin: 20px 0;
+}
+@media only screen and (max-width: 1330px) {
+  .pc {
+    font-size: 25px;
+  }
+}
+@media only screen and (max-width: 390px) {
+  .pc {
+    font-size: 20px;
+  }
+  li {
+    font-size: 10px;
+  }
+}
+#ninjapic-2 {
+  margin-top: 20px;
+}
+@media only screen and (max-width: 1120px) {
+  #head-4 {
+    font-size: 25px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  #head-4 {
+    font-size: 18px;
+  }
+}
+@media only screen and (max-width: 350px) {
+  #head-4 {
+    font-size: 15px;
+  }
+}
+#para-5 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+@media only screen and (max-width: 1430px) {
+  #para-5 {
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 1020px) {
+  #para-5 {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 8500px) {
+  #para-5 {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 410px) {
+  #para-5 {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 350px) {
+  #para-5 {
+    font-size: 12px;
+  }
+}
